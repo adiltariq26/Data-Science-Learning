@@ -1,6 +1,3 @@
-Perfect 👏 — here’s a **professional, beginner-to-intermediate–friendly `README.md`** you can use (and customize) for your **Data Science learning GitHub repository** — built around **Python, Pandas, data cleaning, visualization, extraction, and filtering**.
-
----
 
 # 🧠 **Data Science Learning Journey (Python + Pandas)**
 
