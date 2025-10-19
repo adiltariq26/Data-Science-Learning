@@ -93,19 +93,3 @@ This is a personal learning repository, but if you have suggestions, improvement
 
 ---
 
-## 📬 **Contact**
-
-**Author:** [Muhammad Adil]
-**GitHub:** [yourusername](https://github.com/yourusername)
-**LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-**Email:** [gokanalyst@example.com](mailto:yourname@example.com)
-
----
-
-Would you like me to make it:
-
-* **(A)** More **beginner-learning** tone (like a student’s progress repo), or
-* **(B)** More **professional/portfolio** tone (like a job-seeker showcasing skills)?
-
-I can tailor the README to fit that style next.
-
