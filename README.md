@@ -95,10 +95,10 @@ This is a personal learning repository, but if you have suggestions, improvement
 
 ## 📬 **Contact**
 
-**Author:** []
+**Author:** [Muhammad Adil]
 **GitHub:** [yourusername](https://github.com/yourusername)
 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-**Email:** [yourname@example.com](mailto:yourname@example.com)
+**Email:** [gokanalyst@example.com](mailto:yourname@example.com)
 
 ---
 
